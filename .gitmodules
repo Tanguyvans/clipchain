@@ -1,0 +1,6 @@
+[submodule "agent"]
+	path = agent
+	url = https://github.com/Tanguyvans/ethrome-base
+[submodule "mini-app"]
+	path = mini-app
+	url = https://github.com/Tanguyvans/new-mini-app-quickstart
